@@ -66,7 +66,7 @@ export default function leanding() {
              We are branch of clubs from Kendriya Vidyalaya Mangaldai who works together</h2>
             </div>
             <div className="mt-5 md:mt-0">
-              <button className="buttonExp hover: "><a className="py-3 px-3 uppercase text-white font-Montserrat" href="">Express
+              <button className="buttonExp"><a className="py-3 px-3 uppercase text-white font-Montserrat" href="">Express
                 your thoughts</a></button>
             </div>
           </div>
