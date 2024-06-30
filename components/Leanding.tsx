@@ -62,10 +62,8 @@ export default function leanding() {
               <h1 className="uppercase text-white font-kanit text-[2rem]">wellcome to<span className="span-back"><span
                 aria-hidden="true" className="centerText">KVIAN's clubs </span>KVIAN's clubs </span></h1>
               <h2
-                className=" text-[1.3rem] md:text-[3rem] xl:text-[3rem] 2xl:text-[4.2rem] mt-4 md:mt-0 font-bold font-Bebas md:mx-4 text-white">
-                We are
-                branch of clubs from Kendriya
-                Vidyalaya Mangaldai who works together</h2>
+                className=" text-[1.3rem] md:text-[3rem] xl:text-[1.5rem] 2xl:text-[2.5rem] mt-4 md:mt-0 font-bold font-Bebas md:mr-[53rem] 2xl:mr-[50rem] text-white">
+             We are branch of clubs from Kendriya Vidyalaya Mangaldai who works together</h2>
             </div>
             <div className="mt-5 md:mt-0">
               <button className="buttonExp hover: "><a className="py-3 px-3 uppercase text-white font-Montserrat" href="">Express
